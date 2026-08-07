@@ -1,0 +1,48 @@
+# Byte-compiled files
+pycache/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Env files
+.env
+.env.local
+
+# Node
+node_modules/
+
+# Python virtual env
+venv/
+env/
+.venv/
+
+# Build outputs
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temp files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
