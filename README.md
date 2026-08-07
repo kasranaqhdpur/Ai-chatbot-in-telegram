@@ -1,4 +1,10 @@
+<div align="center">
 
+**English** | [🇩🇪 Deutsch](README.de.md) | [🇮🇷 فارسی](README.fa.md)
+
+</div>
+
+---
 # 🤖 AI Chatbot in Telegram
 
 > **Build your own AI-powered Telegram chatbot — using either a remote AI API or a local LLM with Ollama.**
