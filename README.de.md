@@ -1,5 +1,7 @@
 <div align="center">
+  
 [🇬🇧 English](README.md) | **Deutsch** | [🇮🇷 فارسی](README.fa.md)
+
 </div>
 
 ---
